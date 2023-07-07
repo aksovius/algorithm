@@ -1,7 +1,7 @@
 # Algorithms Learning Repository
 
 This repository contains code snippets, solutions and algorithms I am learning and practicing.
-Lecture form the [Graph Algorithms for Technical Interviews] (https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=3247s&ab_channel=freeCodeCamp.org) by freeCodeCamp.org.
+Lecture form the [Graph Algorithms for Technical Interviews](https://www.youtube.com/watch?v=tWVWeAqZ0WU&t=3247s&ab_channel=freeCodeCamp.org) by Alvin Zablan from Structy.
 ## Contents
 
 This repository includes a variety of algorithms such as:
